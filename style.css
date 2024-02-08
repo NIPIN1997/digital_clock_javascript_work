@@ -1,0 +1,47 @@
+body{
+    background-color: rgba(19, 19, 19, 0.899);
+}
+#maincontainer{
+    width:50%;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#maincontainer h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 100px;
+    color: aliceblue;
+}
+#clockbody h1{
+    color: aliceblue;
+    text-align: center;
+    font-weight:normal;
+    font-size: 80px;
+}
+#clockbody p{
+    text-align: center;
+    color: white;
+    font-weight: 400;
+    font-size: 85px;
+}
+#clockbody{
+    border: 2px solid white;
+    margin-top: 30px;
+}
+#datebody h1{
+    color: aliceblue;
+    text-align: center;
+    font-weight:normal;
+    font-size: 80px;
+}
+#datebody p{
+    text-align: center;
+    color: white;
+    font-weight: 400;
+    font-size: 85px;
+}
+#datebody{
+    border: 2px solid white;
+    margin-top: 25px;
+}
